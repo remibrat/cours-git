@@ -1,1 +1,1 @@
-# cours-git
+# git flow exo
